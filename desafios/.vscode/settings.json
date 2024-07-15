@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.mdx": "markdown",
+    "ostream": "cpp"
+  }
+}
